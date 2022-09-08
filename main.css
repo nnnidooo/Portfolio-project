@@ -1,0 +1,55 @@
+button {
+    background-color: burlywood;
+    border-radius: 20px;
+    box-shadow: black;
+    font-size: 15px;
+}
+
+p {
+    font-family: "Times New Roman", Serif;
+    font-size: large;
+    font-style: normal;
+    letter-spacing: 1.4px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+ul {
+    font-family: "Times New Roman", Serif;
+    letter-spacing: 1.4px;
+
+}
+
+ol {
+    font-family: "Times New Roman", Serif;
+    letter-spacing: 1.4px;
+}
+
+img {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.welcome {
+    margin-bottom: 350px;
+}
+
+.menu {
+    border: solid;
+    margin-bottom: 100px;
+    border-color: burlywood;
+
+}
+
+body {
+    background-color: bisque;
+
+}
+
